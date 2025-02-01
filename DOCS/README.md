@@ -1,5 +1,5 @@
-# XMonad-Alex :: XMonad
-These are the dots for my XMonad installation, xmonad-alex; so that I can reproduce it easily when
+# XMonad-asahi
+These are the dots for my XMonad installation, xmonad-asahi, based on xmonad-alex; so that I can reproduce it easily when
 changing systems.
 
 ## Screenshots
